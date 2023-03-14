@@ -1,3 +1,7 @@
+# NOTICE: Sorry I mistyped `ra` as `sp`. There are so many of them and I'm just too lazy.
+
+
+
 # Part 1
 
 ## Exercise `I-type`
@@ -222,5 +226,3 @@ Which of the following variables are never initialized?
 4. `string`
 
 5. `string[2]`
-
-
