@@ -162,7 +162,7 @@ Try to tell what happened in `jal`
 
 1. `sp` is set to `0x8`
 
-2. `PC` is set to `0xC`
+2. `PC` is set to `0x10`
 
 ### 2. Jalr
 
